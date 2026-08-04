@@ -1,0 +1,99 @@
+{
+	"name": "mvc-source",
+	"type": "VSPlugin",
+	"category": "Source/Output",
+	"description": "H.264 MVC (3D Blu-ray) and AVC source plugin built on the edge264-mvc software decoder. Decodes both stereo views (no MFX/Intel dependency) and serves them as a per-view or stacked (top-and-bottom / side-by-side / alternating) clip; supports combined MVC streams and separate base + dependent streams as tsMuxeR/BD3D2MK3D produce.",
+	"github": "https://github.com/jens-duttke/mvc-source",
+	"identifier": "de.duttke.mvc",
+	"namespace": "mvc",
+	"releases": [
+		{
+			"version": "v0.8.0",
+			"published": "2026-08-04T17:14:06Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.8.0/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"18ef4afb90ba8a9f7633a615119a004ffe556a811c30164116f3499c92699223"
+					]
+				}
+			},
+			"linux-glibc-x86_64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.8.0/libvsmvc.so",
+				"files": {
+					"libvsmvc.so": [
+						"libvsmvc.so",
+						"d374e40a674b3cbd3ed1370284c0003b4bd8ef8d184741387ceb6f91aa359601"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.7.0",
+			"published": "2026-07-22T15:59:52Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.7.0/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"d7bd16769b840fb6bdd3f4262af3bb1a3dc71c07a6bdbb4ee4ba440212b83f39"
+					]
+				}
+			},
+			"linux-glibc-x86_64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.7.0/libvsmvc.so",
+				"files": {
+					"libvsmvc.so": [
+						"libvsmvc.so",
+						"fccb06d5ab5e314698b43964af3e95531f715ff14c39cf385693096f4d6b0550"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.6.0",
+			"published": "2026-07-18T16:19:58Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.6.0/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"550ef70f115db09861f1d3e89bde426cf4358f88f7163a293465515e397e571b"
+					]
+				}
+			},
+			"linux-glibc-x86_64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.6.0/libvsmvc.so",
+				"files": {
+					"libvsmvc.so": [
+						"libvsmvc.so",
+						"96899cd5b133c80e4ce250333d0e85b59533167b6ae2e4d06220480da88326c0"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.5.0",
+			"published": "2026-07-18T11:47:33Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.5.0/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"941fc1d485a937f6239f5b7433d7c7c990ffe8a3d4d630055384af6da06245f9"
+					]
+				}
+			},
+			"linux-glibc-x86_64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.5.0/libvsmvc.so",
+				"files": {
+					"libvsmvc.so": [
+						"libvsmvc.so",
+						"a530f65c2961ab81841ac14ba78bea2929fd30c30a289201b86cefaab1767e38"
+					]
+				}
+			}
+		}
+	]
+}
