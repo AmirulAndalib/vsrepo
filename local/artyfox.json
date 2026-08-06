@@ -8,6 +8,19 @@
 	"namespace": "artyfox",
 	"releases": [
 		{
+			"version": "R21",
+			"published": "2026-07-17T18:39:12Z",
+			"win64": {
+				"url": "https://github.com/artyfoxx/artyfox-plugin/releases/download/R21/artyfox.zip",
+				"files": {
+					"artyfox.dll": [
+						"artyfox.dll",
+						"dbdffe9cd5a9abe7cd938b43aa278dcfaa86c043be7d18467a6f37b8cb9b4ecd"
+					]
+				}
+			}
+		},
+		{
 			"version": "R20.5",
 			"published": "2026-07-09T14:32:32Z",
 			"win64": {

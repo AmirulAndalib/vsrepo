@@ -10,6 +10,19 @@
 	"pypiname": "vapoursynth-timecube",
 	"releases": [
 		{
+			"version": "r5",
+			"published": "2026-07-22T02:50:34Z",
+			"win64": {
+				"url": "https://github.com/sekrit-twc/timecube/releases/download/r5/timecube_r5.7z",
+				"files": {
+					"vscube.dll": [
+						"vscube.dll",
+						"c05c9a05ec8a429aab610a9c3e0cb63e18b9d491c08f77cde73d8ecf6b8d7fab"
+					]
+				}
+			}
+		},
+		{
 			"version": "r4",
 			"published": "2026-04-25T23:06:53Z",
 			"win64": {

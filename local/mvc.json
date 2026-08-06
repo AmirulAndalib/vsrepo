@@ -94,6 +94,84 @@
 					]
 				}
 			}
+		},
+		{
+			"version": "v0.4.6",
+			"published": "2026-07-16T17:22:13Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.4.6/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"3a468e0c222845b88ce84a61ce0c189059b133f7c2abc65ac01d3dc05532c4ba"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.4.5",
+			"published": "2026-07-15T10:43:58Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.4.5/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"01f7826e03b123a5a0ff914ced8c1ac780aa86ba5737de48f6fa818ef1afa274"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.4.2",
+			"published": "2026-07-14T14:12:28Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.4.2/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"9dd86802a2381754934ad3b3858e7f72944a6c07a6ff70aabc076d93402ea784"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.4.1",
+			"published": "2026-07-11T21:18:20Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.4.1/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"93aa0784430ca15cbdae05c8dd6156d19216a3c1265d49a33ef7b365efa67108"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.4.0",
+			"published": "2026-07-09T13:39:35Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.4.0/libvsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libvsmvc.dll",
+						"265ef72bfd91af60f56cfa9d4a87245d6031c55ed954725504ff209db91b8e9e"
+					]
+				}
+			}
+		},
+		{
+			"version": "v0.3.0",
+			"published": "2026-07-07T18:59:51Z",
+			"win64": {
+				"url": "https://github.com/jens-duttke/mvc-source/releases/download/v0.3.0/libavsmvc.dll",
+				"files": {
+					"libvsmvc.dll": [
+						"libavsmvc.dll",
+						"778d8a4e02611e529a9c068d75dc602d3da991a5bce834a7ca611e4c12344307"
+					]
+				}
+			}
 		}
 	]
 }
